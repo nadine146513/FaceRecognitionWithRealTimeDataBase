@@ -6,7 +6,7 @@ A real-time face recognition-based attendance system that uses a camera to captu
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Screenshots
 
@@ -92,6 +92,4 @@ The attendance data will be stored in Firebase Realtime Database under the **Stu
     }
   ---
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
