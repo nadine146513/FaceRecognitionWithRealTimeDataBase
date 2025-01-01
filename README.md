@@ -10,11 +10,12 @@ A real-time face recognition-based attendance system that uses a camera to captu
 
 ## Screenshots
 
-![Attendance Screen](path_to_screenshot_1.png)
-*Caption of the screenshot.*
-
-![Face Recognition](path_to_screenshot_2.png)
-*Caption of the screenshot.*
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="https://github.com/user-attachments/assets/e93e7fae-730b-483e-92f5-b2c2aa0ea587" alt="Screenshot 2024-08-26 132355" style="width: 30%; margin: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/b97b38c6-7c04-4f35-8e58-e272ab7c3ab6" alt="Screenshot 2024-08-26 132433" style="width: 30%; margin: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/e0f52ad2-969e-407d-9fb3-dce891310944" alt="Screenshot 2024-08-26 135523" style="width: 30%; margin: 10px;"/>
+    
+</div>
 
 ## Installation
 
